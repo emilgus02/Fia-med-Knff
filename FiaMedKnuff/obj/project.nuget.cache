@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "5cktF8rGm+uqbCilT5L307/XnRGW5tNykARB2hH7a1LImC9hGoFhMOg43tjQxyhqbbjoUVdYt1mZUNsOLSPH/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\Fia-med-Knff\\FiaMedKnuff\\FiaMedKnuff.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emil.gustafsson7\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",
+    "C:\\Users\\emil.gustafsson7\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\emil.gustafsson7\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\emil.gustafsson7\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\emil.gustafsson7\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\emil.gustafsson7\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\emil.gustafsson7\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\emil.gustafsson7\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\emil.gustafsson7\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\emil.gustafsson7\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\emil.gustafsson7\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

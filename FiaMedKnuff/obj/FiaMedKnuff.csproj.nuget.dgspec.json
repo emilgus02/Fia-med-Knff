@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\Fia-med-Knff\\FiaMedKnuff\\FiaMedKnuff\\FiaMedKnuff.csproj": {}
+    "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\Fia-med-Knff\\FiaMedKnuff\\FiaMedKnuff.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\Fia-med-Knff\\FiaMedKnuff\\FiaMedKnuff\\FiaMedKnuff.csproj": {
+    "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\Fia-med-Knff\\FiaMedKnuff\\FiaMedKnuff.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\Fia-med-Knff\\FiaMedKnuff\\FiaMedKnuff\\FiaMedKnuff.csproj",
+        "projectUniqueName": "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\Fia-med-Knff\\FiaMedKnuff\\FiaMedKnuff.csproj",
         "projectName": "FiaMedKnuff",
-        "projectPath": "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\Fia-med-Knff\\FiaMedKnuff\\FiaMedKnuff\\FiaMedKnuff.csproj",
+        "projectPath": "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\Fia-med-Knff\\FiaMedKnuff\\FiaMedKnuff.csproj",
         "packagesPath": "C:\\Users\\emil.gustafsson7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\Fia-med-Knff\\FiaMedKnuff\\FiaMedKnuff\\obj\\",
+        "outputPath": "C:\\Users\\emil.gustafsson7\\Documents\\GitHub\\Fia-med-Knff\\FiaMedKnuff\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emil.gustafsson7\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "DryIoc.dll": {
+              "target": "Package",
+              "version": "[4.7.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

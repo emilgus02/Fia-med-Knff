@@ -6,4 +6,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="DryIoc.dll" Version="4.7.7" />
+  </ItemGroup>
+
 </Project>
